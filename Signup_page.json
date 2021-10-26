@@ -1,0 +1,44 @@
+{
+    "User": [
+        {
+            "username": "du",
+            "password": "Durga12@",
+            "Profile": {
+                "description": "hekkl\\",
+                "Dob": "klLK",
+                "Gender": "KLJLKLL",
+                "Hobbies": "lL;LLK"
+            }
+        },
+        {
+            "username": "shanu",
+            "password": "Shanu12@",
+            "Profile": {
+                "description": "ksak;'",
+                "Dob": ";K';",
+                "Gender": "",
+                "Hobbies": "bzmm."
+            }
+        },
+        {
+            "username": "yakub",
+            "password": "Yakub@123",
+            "Profile": {
+                "description": "exercise",
+                "Dob": "34567",
+                "Gender": "male",
+                "Hobbies": "stysdty"
+            }
+        },
+        {
+            "username": "baby",
+            "password": "Babu@123",
+            "Profile": {
+                "description": "food",
+                "Dob": "45678",
+                "Gender": "male",
+                "Hobbies": "study"
+            }
+        }
+    ]
+}
